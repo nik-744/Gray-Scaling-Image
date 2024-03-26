@@ -1,4 +1,6 @@
 # Image Gray Scale Convertor
+This repository contains code for transforming colored images to gray scale using tensorflow liberary of Deep Learning.
+# Introduction
 This repository contains a simple Python script to convert color images to grayscale. Grayscale images are commonly used in various image processing tasks and can simplify further analysis.
 
 # Contributing
